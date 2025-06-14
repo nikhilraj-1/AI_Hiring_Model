@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files/folders:
+!.gitignore
+!README.md
+!requirements.txt
+!notebooks/*.ipynb
+!data/ai_hiring_assignment_dataset_5000.csv
